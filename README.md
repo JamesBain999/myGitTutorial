@@ -1,2 +1,2 @@
 # myGitTutorial
-# smelly stinky dawg
+# Made some changes
